@@ -1,0 +1,2 @@
+Admin can add and remove the users.
+He can also assign the roles.
