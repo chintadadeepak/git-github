@@ -6,3 +6,4 @@ login and logout features
 
 users can receive OTP from the server.
 they can able to re-generate their desired password!!
+understanding pull command!!
