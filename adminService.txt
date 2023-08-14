@@ -3,3 +3,5 @@ He can also assign the roles.
 
 working with database
 login and logout features
+
+users can receive OTP from the server.
